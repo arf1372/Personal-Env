@@ -1,0 +1,3 @@
+# CAUTION: Read the message bellow then REMOVE ALL LINES befor using this file!
+# Enter your private key's keygrip here (one line for each key) to be used by
+# gpg-agent for ssh authentication.
